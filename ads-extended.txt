@@ -1,0 +1,35 @@
+# Extended Ads Blocklist (Indonesia + Global)
+# Format: satu domain per baris
+# Cocok untuk MikroTik RouterOS v7 (RB750Gr3 aman, list ringan)
+# Last update: 2025-09-13
+
+## --- Indo Ads ---
+adplus.co.id
+adzmath.com
+tribalfusion.com
+imrworldwide.com
+inmobi.com
+adk2.co
+
+## --- Google Ads & Tracking ---
+analytics.google.com
+googletagmanager.com
+googletagservices.com
+doubleclick.net
+ads.google.com
+pagead2.googlesyndication.com
+
+## --- Social & Analytics Trackers ---
+scorecardresearch.com
+zedo.com
+quantserve.com
+bluekai.com
+criteo.com
+rubiconproject.com
+
+## --- App Ads (sering muncul di Android/iOS) ---
+appsflyer.com
+adjust.com
+branch.io
+chartboost.com
+unityads.unity3d.com
