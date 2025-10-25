@@ -1,6 +1,9 @@
 # Cocok untuk MikroTik RouterOS v7 (RB750Gr3 aman, list ringan)
 # Last update: 2025-09-13
-
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 iws.corel.com
 ## --- Indo Ads ---
 0.0.0.0 ads.detik.com
 0.0.0.0 iklan.detik.com
